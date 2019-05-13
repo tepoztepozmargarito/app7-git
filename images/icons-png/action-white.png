@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<title>index php</title>
+</head>
+
+<body>
+<h1> Evelyne Tochihuitl Rodriguez</h1>
+<?php
+   echo ('<h2> 4G </h2>');
+   $fecha= date('d-m-Y');
+   echo ('hoy es: '. $fecha);
+   echo('<br>');
